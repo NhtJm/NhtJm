@@ -22,7 +22,7 @@
 
 - 👨‍💻 Currently, my major is **Computer Science**
 
-- 📫 How to reach me **nhat.tran24.02@hcmut.edu.vn**
+- 📫 How to reach me **nhat.tran2402@hcmut.edu.vn**
 
 <br>
 <h3 align="left">Connect with me:</h3>
